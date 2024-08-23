@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '56ad4e54b9e9467cb9954e22138e72e1',
+  rootNotionPageId: 'd0bdc1526c0b4063a9def1f76876ddd7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: ' husky',
-  domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-56ad4e54b9e9467cb9954e22138e72e1',
+  domain: 'https://www.notion.so/HUSKY-d0bdc1526c0b4063a9def1f76876ddd7',
   author: ' Husky',
   beian: '浙ICP备2021******号',
 
