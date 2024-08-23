@@ -12,6 +12,7 @@ export default siteConfig({
   name: ' husky',
   domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-56ad4e54b9e9467cb9954e22138e72e1',
   author: ' Husky',
+  beian: '浙ICP备2021******号',
 
   // open graph metadata (optional)
   description: ' husky blog',
