@@ -9,6 +9,7 @@ export interface SiteConfig {
   author: string
   description?: string
   language?: string
+  beian?: string
 
   twitter?: string
   github?: string
