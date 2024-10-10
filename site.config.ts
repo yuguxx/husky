@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: ' husky',
+  name: 'husky',
   domain: 'https://www.notion.so/HUSKY-d0bdc1526c0b4063a9def1f76876ddd7',
-  author: ' Husky',
+  author: 'Husky',
   beian: '浙ICP备2021******号',
 
   // open graph metadata (optional)
